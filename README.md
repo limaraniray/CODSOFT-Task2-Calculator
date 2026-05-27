@@ -26,6 +26,7 @@
     - [➗ Division by Zero](#-division-by-zero)
     - [💪 Power Example](#-power-example)
   - [📸 Screenshots](#-screenshots)
+  - [](#)
   - [👤 Author](#-author)
   - [📄 License](#-license)
   - [🏷️ Tags](#️-tags)
@@ -140,13 +141,9 @@ Enter second number: 8
 ✅ Result: 2 ** 8 = 256
 ```
 
----
-
 ## 📸 Screenshots
 
-> Run the script and interact with the menu in your terminal.
-
----
+## ![Calculator terminal UI](Screenshot.png)
 
 ## 👤 Author
 
